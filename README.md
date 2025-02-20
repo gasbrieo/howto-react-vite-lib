@@ -7,12 +7,11 @@
 
 ## Overview
 
-**HowTo.NET.Lib** serves as a template for creating and publishing a React library using Vite, with CI/CD workflows for SonarCloud analysis and NPM package publishing.
+**HowTo.React.Vite.Lib** serves as a template for creating and publishing a React library using Vite, with CI/CD workflows for SonarCloud analysis and NPM package publishing.
 
 ## Features
 
 - GitHub Actions Workflow
-
   - Static analysis with SonarCloud
   - Automated publishing to NPM
 
