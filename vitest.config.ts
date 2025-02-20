@@ -8,7 +8,7 @@ export default defineConfig({
     coverage: {
       reporter: ["lcov", "html"],
       include: ["src"],
-      exclude: ["**/*.test.tsx"],
+      exclude: ["**/*.test.tsx", "**/*.stories.tsx"],
     },
   },
 });

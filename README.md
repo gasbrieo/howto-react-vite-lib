@@ -20,6 +20,7 @@
   - Sample library component
   - Prettier + ESLint
   - Vitest
+  - Storybook
 
 ## Getting Started
 
